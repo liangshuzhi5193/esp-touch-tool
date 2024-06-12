@@ -1,0 +1,6 @@
+dist/
+data/
+env/
+.env/
+esp_touchsensor_tool.spec
+touchmain.ui.autosave
